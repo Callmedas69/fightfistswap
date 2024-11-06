@@ -42,7 +42,7 @@ export default function SwapComponents() {
   const swappableTokens: Token[] = [ETHToken, TTSToken];
 
   return address ? (
-    <div className="flex flex-col justify-center items-center p-4 sm:p-6 md:p-8 lg:py-5">
+    <div className="flex flex-col justify-center items-center p-20 sm:p-6 md:p-8 lg:py-5">
       <Swap className="w-full max-w-sm sm:max-w-md md:max-w-lg">
         <SwapSettings>
           <SwapSettingsSlippageTitle className="text-sm sm:text-base md:text-lg">
