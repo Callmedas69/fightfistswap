@@ -19,9 +19,9 @@ import { motion, AnimatePresence } from "framer-motion";
 const navLinks = [
   { title: "HOME", path: "/" },
   { title: "FIGHT NFT", path: "https://mint.fightfist.io/" },
-  { title: "SWAP", path: "/comingsoon" },
-  { title: "STAKE", path: "/comingsoon" },
-  { title: "ART GALLERY", path: "/comingsoon" },
+  { title: "SWAP", path: "/coming-soon" },
+  { title: "STAKE", path: "/coming-soon" },
+  { title: "ART GALLERY", path: "/coming-soon" },
   { title: "WHITEPAPER", path: "/whitepaper" },
 ];
 
